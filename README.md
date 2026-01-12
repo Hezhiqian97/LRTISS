@@ -1,6 +1,6 @@
-# **LRTIIS: Efficient Semantic Segmentation Network**
+# **LRTISS: A Lightweight Real-Time Network for Industrial Surface defect Segmentation**
 
-This is a semantic segmentation project based on PyTorch, featuring **LRTIIS** as the core model. The project integrates **StarNet** as the backbone and utilizes **MRFA** (Multi-Resolution Feature Aggregation) and **LEGR** (Local Global Element-wise Routing) modules for feature extraction and fusion. Additionally, a **Dynamic Hybrid Loss** function (combining Cross Entropy Loss and Adaptive Gaussian Dice Loss) is employed during training to enhance performance in tasks such as defect detection.
+This is a semantic segmentation project based on PyTorch, featuring **LRTISS** as the core model. The project integrates **StarNet** as the backbone and utilizes **MRFA** (Multi-Resolution Feature Aggregation) and **LEGR** (Local Global Element-wise Routing) modules for feature extraction and fusion. Additionally, a **Dynamic Hybrid Loss** function (combining Cross Entropy Loss and Adaptive Gaussian Dice Loss) is employed during training to enhance performance in tasks such as defect detection.
 
 ## **Table of Contents**
 
